@@ -39,10 +39,49 @@
           </div>
           <div class="why mt-5">
             <h3>Why choose Tourz</h3>
-            <div class="content-card mt-5">
+            <div class="content-card mt-1 d-flex justify-content-between">
               <div class="content1">
                 <img src="../assets/icon (1).png" alt="" />
-                <div class="text"></div>
+                <div class="text mt-3" style="text-align: justify">
+                  <h6>Ultimate flexibility</h6>
+                  <p>
+                    You're in control, with free cancellation and payment
+                    options to satisfy any plan or budget.
+                  </p>
+                </div>
+              </div>
+
+              <div class="content1">
+                <img src="../assets/icon (2).png" alt="" />
+                <div class="text mt-3" style="text-align: justify">
+                  <h6>Ultimate flexibility</h6>
+                  <p>
+                    You're in control, with free cancellation and payment
+                    options to satisfy any plan or budget.
+                  </p>
+                </div>
+              </div>
+
+              <div class="content1">
+                <img src="../assets/icon (3).png" alt="" />
+                <div class="text mt-3" style="text-align: justify">
+                  <h6>Ultimate flexibility</h6>
+                  <p>
+                    You're in control, with free cancellation and payment
+                    options to satisfy any plan or budget.
+                  </p>
+                </div>
+              </div>
+
+              <div class="content1">
+                <img src="../assets/icon (4).png" alt="" />
+                <div class="text mt-3" style="text-align: justify">
+                  <h6>Ultimate flexibility</h6>
+                  <p>
+                    You're in control, with free cancellation and payment
+                    options to satisfy any plan or budget.
+                  </p>
+                </div>
               </div>
             </div>
           </div>
@@ -50,6 +89,142 @@
       </div>
     </div>
   </div>
+  <section class="trif">
+    <div class="row">
+      <div class="col-12">
+        <div class="container">
+          <div class="sub-title d-flex justify-content-between">
+            <h3>Featured Trips</h3>
+            <p>See all</p>
+          </div>
+          <div class="trif1 d-flex justify-content-between">
+            <div class="card mt-5" style="width: 18rem">
+              <img
+                src="../assets/trif (1).png"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <h5 class="card-title">Paris, France</h5>
+                <p class="card-text">
+                  Some quick example text to build on the card title and make up
+                  the bulk of the card's content.
+                </p>
+                <a href="#" class="btn btn-primary">Cek Sekarang</a>
+              </div>
+            </div>
+            <div class="card mt-5" style="width: 18rem">
+              <img
+                src="../assets/trif (2).png"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <h5 class="card-title">New York, USA</h5>
+                <p class="card-text">
+                  Some quick example text to build on the card title and make up
+                  the bulk of the card's content.
+                </p>
+                <a href="#" class="btn btn-primary">Cek Sekarang</a>
+              </div>
+            </div>
+            <div class="card mt-5" style="width: 18rem">
+              <img
+                src="../assets/trif (3).png"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <h5 class="card-title">London, UK</h5>
+                <p class="card-text">
+                  Some quick example text to build on the card title and make up
+                  the bulk of the card's content.
+                </p>
+                <a href="#" class="btn btn-primary">Cek Sekarang</a>
+              </div>
+            </div>
+            <div class="card mt-5" style="width: 18rem">
+              <img
+                src="../assets/trif (4).png"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <h5 class="card-title">New York, USA</h5>
+                <p class="card-text">
+                  Some quick example text to build on the card title and make up
+                  the bulk of the card's content.
+                </p>
+                <a href="#" class="btn btn-primary">Cek Sekarang</a>
+              </div>
+            </div>
+          </div>
+          <div class="trif1 d-flex justify-content-between">
+            <div class="card mt-5" style="width: 18rem">
+              <img
+                src="../assets/trif (5).png"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <h5 class="card-title">Paris, France</h5>
+                <p class="card-text">
+                  Some quick example text to build on the card title and make up
+                  the bulk of the card's content.
+                </p>
+                <a href="#" class="btn btn-primary">Cek Sekarang</a>
+              </div>
+            </div>
+            <div class="card mt-5" style="width: 18rem">
+              <img
+                src="../assets/trif (6).png"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <h5 class="card-title">New York, USA</h5>
+                <p class="card-text">
+                  Some quick example text to build on the card title and make up
+                  the bulk of the card's content.
+                </p>
+                <a href="#" class="btn btn-primary">Cek Sekarang</a>
+              </div>
+            </div>
+            <div class="card mt-5" style="width: 18rem">
+              <img
+                src="../assets/trif (7).png"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <h5 class="card-title">London, UK</h5>
+                <p class="card-text">
+                  Some quick example text to build on the card title and make up
+                  the bulk of the card's content.
+                </p>
+                <a href="#" class="btn btn-primary">Cek Sekarang</a>
+              </div>
+            </div>
+            <div class="card mt-5" style="width: 18rem">
+              <img
+                src="../assets/trif (8).png"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <h5 class="card-title">New York, USA</h5>
+                <p class="card-text">
+                  Some quick example text to build on the card title and make up
+                  the bulk of the card's content.
+                </p>
+                <a href="#" class="btn btn-primary">Cek Sekarang</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
 </template>
 
 <script>
@@ -100,8 +275,14 @@ export default {
 }
 /* content icon */
 .content1 {
-  width: 17rem;
+  width: 19rem;
   height: 15rem;
-  background-color: red;
+  padding: 2rem;
+}
+/* trif */
+.trif {
+  background-color: #fef8f5;
+  width: 100%;
+  padding: 5rem 0 !important;
 }
 </style>
